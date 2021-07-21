@@ -1,6 +1,6 @@
 https://leetcode.com/problems/pascals-triangle/discuss/1350114/C%2B%2B-or-Commented-or-Solution-or-Time-O(N2)-or-Space-O(N2)
 
-//Optimal Solution(Commented)
+//Optimal Solution
 
 class Solution {
 public:
