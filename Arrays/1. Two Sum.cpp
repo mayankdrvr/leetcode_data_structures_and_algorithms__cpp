@@ -27,12 +27,12 @@ public:
     vector<int> twoSum(vector<int>& nums, int target){      
 		    //Efficient Solution using hashmap
         int len=nums.size();
-        unordered_map<int,int> m;
+        unordered_map<int,int> map;
         for(auto i=0;i<len;i++){
-            if(m.find(target-nums[i])!=m.end()){
-                return {i,m[target-nums[i]]};
+            if(map.find(target-nums[i])!=map.end()){
+                return {i,map[target-nums[i]]};
         }
-        m[nums[i]]=i;
+        map[nums[i]]=i;
         }
         return {};
     }
