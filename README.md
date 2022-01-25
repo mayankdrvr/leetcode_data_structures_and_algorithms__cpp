@@ -8,7 +8,7 @@
 ![leetcode dsa](https://user-images.githubusercontent.com/87348490/149465554-e6d197e1-a31c-4b5f-b1c3-fc47f7932e96.gif)
 
 # Problems List
-
+## Arrays
 | # | Title | Solution on Github | Solution on Leetcode |
 |---| ----- | -------- | ---------- |
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](Arrays/1_Two_Sum.cpp)|[C++](https://leetcode.com/problems/two-sum/discuss/1328401/C%2B%2B-or-Brute-force-and-Efficient-Solution-or-Time-O(N)-or-Auxiliary-Space-O(N))|
