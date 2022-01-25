@@ -1,5 +1,5 @@
 # Leetcode Data Structures & Algorithms Solutions in C++
-- Brute force &amp; optimal solutions of leetcode data structures &amp; algorithms problems in C++ computer programming language. Both solutions are in the same file. Brute force solution is commented out.
+- Brute force &amp; optimal solutions of leetcode data structures &amp; algorithm problems in C++ computer programming language. Both solutions are in the same file. Brute force solution is commented out.
 - Solutions are categorised in folders according to the data structures used.
 - Search for 'mayankdv' tag in the leetcode discuss section of the problems given in the list at https://leetcode.com/list/5yl6gc46
 
