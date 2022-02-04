@@ -9,7 +9,7 @@
 
 # Problems List
 ## Arrays
-| # | Title | Solution on Github | Solution on Leetcode |
+| # | Title | Solution on Github | Solution on Leetcode(Regularly Updated) |
 |---| ----- | -------- | ---------- |
 |1.|[Two Sum](https://leetcode.com/problems/two-sum/) | [C++](Arrays/1_Two_Sum.cpp)|[C++](https://leetcode.com/problems/two-sum/discuss/1328401/C%2B%2B-or-Brute-force-and-Efficient-Solution-or-Time-O(N)-or-Auxiliary-Space-O(N))|
 |26.|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [C++](Arrays/26_Remove_Duplicates_from_Sorted_Array.cpp)|[C++](https://leetcode.com/problems/remove-duplicates-from-sorted-array/discuss/1350762/C%2B%2B-or-Brute-Force-or-Optimal(Two-Pointer-Method)-or-Solution-or-Time-O(N)-or-Auxiliary-Space-O(1)-or)|
